@@ -18,7 +18,7 @@ To train a neural network that accurately classifies handwritten digits (0–9) 
 
 ---
 
-## 📁 Dataset Format
+## Dataset Format
 
 The dataset used consists of two main folders:
 - `train/` — contains subfolders `0/` to `9/`, each holding digit images.
