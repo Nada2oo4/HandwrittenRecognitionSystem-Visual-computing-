@@ -20,9 +20,11 @@ To train a neural network that accurately classifies handwritten digits (0–9) 
 
 ## Dataset Format
 
-The dataset used consists of two main folders:
+The dataset used is MNIST dataset consists of two main folders:
 - `train/` — contains subfolders `0/` to `9/`, each holding digit images.
 - `test/` — similar structure for evaluating the model.
+this is the link to the MNIST dataset used :
+https://1drv.ms/f/c/fbb6863870c7cccb/Elr7nD0eRptFtJVAk6Kz5icBa8V5Mwhs8gXDVLeDsuWQKg?e=M6hnxf
 
 Images are converted to grayscale, resized to 28x28 pixels, and normalized for training.
 
